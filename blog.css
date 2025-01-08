@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding:20px;
+    font-family: cursive;
+
+}
+header{
+    color: pink;
+    text-align: center;
+    font-size: x-large;
+}
+main{
+    width: 60%
+    margin:0 auto;
+    text-align: center;
+}
+button{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+
+}
+button a{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+}
